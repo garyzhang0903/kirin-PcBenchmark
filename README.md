@@ -1,0 +1,1 @@
+由KirinBenchmark2.0跑分基准核心开发的硬件检测加硬件跑分程序Kirin-PCID程序
